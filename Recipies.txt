@@ -7,7 +7,7 @@ Chiken Fry
 Pasta
 Chiken 65
 
-
+chicken 100
 
 ThankYou
 
